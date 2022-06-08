@@ -1,9 +1,6 @@
 # Exercises for SAV Actuary
 
-_(Some) Exercises as preparation for SAV actuarial exams at ETH Zurich_
-
-Courses:
-* [Selected Topics in Life Insurance Mathematics](http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2020S&ansicht=KATALOGDATEN&lerneinheitId=135159&lang=en) by M. Koller
+_(Some) Materials as preparation for SAV actuarial exams at ETH Zurich_
 
 All errors are mine.
 
