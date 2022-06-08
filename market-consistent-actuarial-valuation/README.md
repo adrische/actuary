@@ -1,1 +1,1 @@
-
+These notes reproduce the first example on least-squares Monte-Carlo from paper _Valuing American Options by Simulation: A Simple Least-Squares Approach_ by Longstaff and Schwartz, [available here](https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf).
